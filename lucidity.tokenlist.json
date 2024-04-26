@@ -393,5 +393,42 @@
       "symbol": "SUSHI",
       "address": "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2"
     }
+  ],
+  "8453": [
+    {
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/2396.png",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "address": "0x4200000000000000000000000000000000000006"
+    },
+    {
+      "decimals": 6,
+      "logo": "https://static.alchemyapi.io/images/assets/3408.png",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
+    },
+    {
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/12409.png",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "address": "0xc1CBa3fCea344f92D9239c08C0568f6F2F0ee452"
+    },
+    {
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/21535.png",
+      "name": "Coinbase Wrapped Staked ETH",
+      "symbol": "cbETH",
+      "address": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22"
+    },
+    {
+      "decimals": 6,
+      "logo": null,
+      "name": "USD Base Coin",
+      "symbol": "USDbC",
+      "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA"
+    }
   ]
 }
