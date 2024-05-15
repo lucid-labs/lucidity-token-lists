@@ -3,6 +3,13 @@
   "1": [
     {
       "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/docs/api_icon.svg",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "address": "0x0000000000000000000000000000000000000000"
+    },
+    {
+      "decimals": 18,
       "logo": "https://static.alchemyapi.io/images/assets/2396.png",
       "name": "WETH",
       "symbol": "WETH",
@@ -397,6 +404,13 @@
   "123456789": [
     {
       "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/docs/api_icon.svg",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "address": "0x0000000000000000000000000000000000000000"
+    },
+    {
+      "decimals": 18,
       "logo": "https://static.alchemyapi.io/images/assets/2396.png",
       "name": "WETH",
       "symbol": "WETH",
@@ -789,6 +803,13 @@
     }
   ],
   "8453": [
+    {
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/docs/api_icon.svg",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "address": "0x0000000000000000000000000000000000000000"
+    },
     {
       "decimals": 18,
       "logo": "https://static.alchemyapi.io/images/assets/2396.png",
