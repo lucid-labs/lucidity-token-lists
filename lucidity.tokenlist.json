@@ -844,6 +844,27 @@
       "name": "USD Base Coin",
       "symbol": "USDbC",
       "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA"
+    },
+    {
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/4943.png",
+      "name": "Dai",
+      "symbol": "DAI",
+      "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb"
+    },
+    {
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/15060.png",
+      "name": "Rocket Pool ETH",
+      "symbol": "RETH",
+      "address": "0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c"
+    },
+    {
+      "decimals": 18,
+      "logo": null,
+      "name": "Aerodrome",
+      "symbol": "AERO",
+      "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
     }
   ]
 }
