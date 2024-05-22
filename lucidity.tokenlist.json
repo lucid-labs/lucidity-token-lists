@@ -865,6 +865,20 @@
       "name": "Aerodrome",
       "symbol": "AERO",
       "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
+    },
+    {
+      "decimals": 18,
+      "logo": null,
+      "name": "Seamless",
+      "symbol": "SEAM",
+      "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85"
+    },
+    {
+      "decimals": 18,
+      "logo": null,
+      "name": "Degen",
+      "symbol": "DEGEN",
+      "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed"
     }
   ]
 }
