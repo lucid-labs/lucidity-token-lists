@@ -840,7 +840,7 @@
     },
     {
       "decimals": 6,
-      "logo": null,
+      "logo": "https://assets.coingecko.com/coins/images/31164/standard/baseusdc.jpg",
       "name": "USD Base Coin",
       "symbol": "USDbC",
       "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA"
@@ -861,21 +861,21 @@
     },
     {
       "decimals": 18,
-      "logo": null,
+      "logo": "https://assets.coingecko.com/coins/images/31745/standard/token.png",
       "name": "Aerodrome",
       "symbol": "AERO",
       "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631"
     },
     {
       "decimals": 18,
-      "logo": null,
+      "logo": "https://assets.coingecko.com/coins/images/33480/standard/Seamless_Logo_Black_Transparent.png",
       "name": "Seamless",
       "symbol": "SEAM",
       "address": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85"
     },
     {
       "decimals": 18,
-      "logo": null,
+      "logo": "https://assets.coingecko.com/coins/images/34515/standard/android-chrome-512x512.png",
       "name": "Degen",
       "symbol": "DEGEN",
       "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed"
