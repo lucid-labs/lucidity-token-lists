@@ -879,6 +879,27 @@
       "name": "Degen",
       "symbol": "DEGEN",
       "address": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed"
+    },
+    {
+      "decimals": 18,
+      "logo": "https://assets.coingecko.com/coins/images/33480/standard/Seamless_Logo_Black_Transparent.png",
+      "name": "Escrow SEAM",
+      "symbol": "esSEAM",
+      "address": "0x998e44232BEF4F8B033e5A5175BDC97F2B10d5e5"
+    },
+    {
+      "decimals": 18,
+      "logo": "https://assets.coingecko.com/coins/images/26133/standard/WELL.png",
+      "name": "WELL",
+      "symbol": "WELL",
+      "address": "0xA88594D404727625A9437C3f886C7643872296AE"
+    },
+    {
+      "decimals": 18,
+      "logo": "https://static.alchemyapi.io/images/assets/5692.png",
+      "name": "Compound",
+      "symbol": "COMP",
+      "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0"
     }
   ]
 }
